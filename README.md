@@ -27,3 +27,6 @@ a short notes of pdb, it will be useful when you are implementing your model wit
 ## Run pdb
 python -m pdb log_in.py
 ## Results
+![Alt text](https://github.com/jocialiang/pdb_the_python_debugger/blob/master/pdb_1.jpg)
+![Alt text](https://github.com/jocialiang/pdb_the_python_debugger/blob/master/pdb_2.jpg)
+![Alt text](https://github.com/jocialiang/pdb_the_python_debugger/blob/master/pdb_3.jpg)
